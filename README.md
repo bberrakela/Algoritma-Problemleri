@@ -1,2 +1,2 @@
 # Algoritma-Problemleri
-HackerRank'ten çözdüğüm algoritma problemlerinin Python çözümleri.
+HackerRank ve LeetCode'da çözdüğüm algoritma problemlerinin Python çözümleri.
